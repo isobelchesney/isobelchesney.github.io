@@ -1,0 +1,17 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 32px;
+}
+
+a {
+	color:red;
+}
+
+img {
+	width: 100%;
+}
+
+.main{
+	width:250px;
+	margin:auto;
+}
